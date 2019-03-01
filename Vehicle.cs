@@ -4,9 +4,16 @@ namespace construtorsAndInheritance
 {
     public class Vehicle
     {
-      public Vehicle()
+      private readonly string _registrationNumber;
+      // public Vehicle()
+      // {
+      //   System.Console.WriteLine("Vehicle is being initialized.");
+      // }
+      public Vehicle(string registrationNumber)
       {
-        System.Console.WriteLine("Vehicle is being initialized.");
+          _registrationNumber = registrationNumber;
+
+          System.Console.WriteLine("Vehicle is being initialized. {0}", registrationNumber);
       }
     }
 }

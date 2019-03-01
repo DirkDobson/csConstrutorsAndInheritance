@@ -4,9 +4,10 @@ namespace construtorsAndInheritance
 {
     public class Car : Vehicle
     {
-      public Car()
+      public Car(string registrationNumber)
+        : base(registrationNumber)
       {
-        System.Console.WriteLine("Car is being initialized.");           
+        System.Console.WriteLine("Car is being initialized. {0}", registrationNumber);           
       }
     }
 }
