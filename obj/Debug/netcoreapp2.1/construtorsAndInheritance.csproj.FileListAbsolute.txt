@@ -1,0 +1,11 @@
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/construtorsAndInheritance/bin/Debug/netcoreapp2.1/construtorsAndInheritance.deps.json
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/construtorsAndInheritance/bin/Debug/netcoreapp2.1/construtorsAndInheritance.runtimeconfig.json
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/construtorsAndInheritance/bin/Debug/netcoreapp2.1/construtorsAndInheritance.runtimeconfig.dev.json
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/construtorsAndInheritance/bin/Debug/netcoreapp2.1/construtorsAndInheritance.dll
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/construtorsAndInheritance/bin/Debug/netcoreapp2.1/construtorsAndInheritance.pdb
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/construtorsAndInheritance/obj/Debug/netcoreapp2.1/construtorsAndInheritance.csprojAssemblyReference.cache
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/construtorsAndInheritance/obj/Debug/netcoreapp2.1/construtorsAndInheritance.csproj.CoreCompileInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/construtorsAndInheritance/obj/Debug/netcoreapp2.1/construtorsAndInheritance.AssemblyInfoInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/construtorsAndInheritance/obj/Debug/netcoreapp2.1/construtorsAndInheritance.AssemblyInfo.cs
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/construtorsAndInheritance/obj/Debug/netcoreapp2.1/construtorsAndInheritance.dll
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/construtorsAndInheritance/obj/Debug/netcoreapp2.1/construtorsAndInheritance.pdb
